@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+ 
+<html>
+  
+  <!-- Menú de navegación -->
+<nav>
+<ul>
+<li><a href="https://www.burgerking.es/es/">Inicio</a></li>
+<li><a href="https://www.youtube.com/watch?v=9cPxh2DikIA si=PpkoQ5IocFEnueR6&amp;start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Video</a></li>
+<li><a href="https://www.burgerking.es/es/menu">Menús</a></li>
+<li><a
+       href="https://duckduckgo.com/">Buscador
+</ul>
+</nav>
+  <head>
+<title></title>ALMUDENA Y MIGUEL
+ 
+    <h1>BURGER KING</h1>
+<h3>INFORMACIÓN:</h3>
+    Burger King Corporation, también conocida como BK, es una cadena de restaurantes de comida rápida estadounidense especializada en la elaboración de hamburguesas con sede central en Miami, Florida,[1]​ y subsidiaria de Restaurant Brands International, un holding canadiense con sede en Toronto al que también pertenece Popeyes.
+    <h3>HISTORIA:</h3>
+    Fue fundada el 4 de diciembre de 1954 en Miami, cuando dos jóvenes emprendedores llamados James McLamore y David R. Edgerton inauguraron este restaurante basado en un concepto diferente al que existía y que se ha mantenido hasta hoy: «The Home of The Whopper».
+
+En el año 1963, abrió el primer restaurante fuera de los Estados Unidos, en Puerto Rico. En 1974 se inició la campaña de mercadeo «HAVE IT YOUR WAY» (Como tú quieras) permitiendo que los clientes personalizaran los ingredientes de sus hamburguesas
+  <style>
+    body {
+      background-image: url(https://brandemia.org/contenido/subidas/2021/12/bk_rebrand_stills_vi_1_logo.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: white;
+    }
+</style>
+ 
+</head>
+    <h3>The Home of the Whopper</h3>
+<img src="https://www.aragondigital.es/asset/thumbnail,1280,720,center,center/media/aragondigital/images/2024/08/12/2024081217174884123.jpg"
+width="700" height="390"
