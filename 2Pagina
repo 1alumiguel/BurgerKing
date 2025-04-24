@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+ 
+<html>
+  
+  <!-- Menú de navegación -->
+<nav>
+<ul>
+<li><a href="https://www.burgerking.es/es/">Inicio</a></li>
+<li><a href="https://www.youtube.com/watch?v=9cPxh2DikIA si=PpkoQ5IocFEnueR6&amp;start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Video</a></li>
+<li><a href="https://www.burgerking.es/es/menu">Menús</a></li>
+<li><a
+       href="https://duckduckgo.com/">Buscador
+</ul>
+</nav>
+  <head>
+<title></title>ALMUDENA Y MIGUEL
+ 
+    <h1>BURGER KING</h1>
+<h3>LO MÁS COMPRADO:</h3>
+   <table>
+        <thead>
+            <tr>
+                <th>Posición</th>
+                <th>Menú</th>
+                <th>Bebida</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Whopper</td>
+                <td>Si</td>
+                <td>8,90</td>
+            </tr>
+            <tr>
+                <td>2</td>
+              <td>King Junior</td>
+                <td>Si</td>
+              <td>4,90</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Nuggets</td>
+                <td>No</td>
+                <td>5,50</td>
+            </tr>
+                          <td>4</td>
+                <td>Patatas fritas</td>
+                <td>No</td>
+                <td>4,10</td>
+          </tr>
+                <td>5</td>
+                <td>Long Chicken</td>
+                <td>Si</td>
+                <td>8,80</td>
+        </tbody>
+        <tfoot>
+            <tr>
+               
+              <td colspan="4">*Existen  versiones sin gluten*</td>
+            </tr>
+        </tfoot>
+    </table>
+<style>
+    body {
+      background-image: url(https://brandemia.org/contenido/subidas/2021/12/bk_rebrand_stills_vi_1_logo.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: white;
+    }
+</style>
+ 
+</head>
+ 
+<body>
+
+
+  <a>BK</a>
+
+     </body>
+</html>
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNU7txrIz3a5I7tHhsUkBPjY4jUjfn7i2mA&s"
+width="400" height="290"
+
